@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/## LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma)
+?theme=light&font=Karma)
