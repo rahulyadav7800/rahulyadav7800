@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 ## LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/## LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/r4huly4dav?theme=light&font=Karma)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma)
-?theme=light&font=Karma)
